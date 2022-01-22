@@ -17,8 +17,8 @@ def get_concant_h(im1,im2):
 
 
 def cropAndSave(l: Image, r:Image, num: Num) -> None:
-    l.crop((0,0,l.width-minus,l.height))
-    r.crop((minus,0,r.width,r.height))
+    l = l.crop((0,0,l.width-minus,l.height))
+    r = r.crop((minus,0,r.width,r.height))
     get_concant_h(l,r).save(savepath+str(num)+".png")
 
 
