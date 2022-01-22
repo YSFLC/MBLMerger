@@ -5,3 +5,4 @@ for Efficient
 ```bash
 python3 ./src/main.py C:/ほげほげ/ふげ/MBLがぞー
 ```
+しんぐるすれっどです！！！おそい！！！
