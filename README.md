@@ -1,4 +1,4 @@
-# YSFLC-MBLMarger
+# YSFLC-MBLMerger
 for Efficient
 
 引数にページの画像が入ってるフォルダのパスを食わせてください
