@@ -12,3 +12,4 @@ python3 ./src/main.py C:/ほげほげ/ふげ/MBLがぞー
 ```bash
 pip install Pillow
 ```
+![detail whiteboard](PXL_20220120_071121813.MP.jpg)
